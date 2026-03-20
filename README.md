@@ -1,2 +1,3 @@
-# prime-music-streaming-vbtu
-Automated issue comment bot repository
+# Prime Music Streaming Vbtu
+
+Automated issue comment bot repository.
